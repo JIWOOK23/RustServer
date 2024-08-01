@@ -1,0 +1,10 @@
+[package]
+name = "Server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[workspace]
+members = ["tcpserver","http","tcpclient","httpserver"]
