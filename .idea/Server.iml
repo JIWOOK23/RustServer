@@ -2,8 +2,15 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/http/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/httpserver/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tcpclient/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tcpserver/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/httpserver/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tcpclient/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tcpserver/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
